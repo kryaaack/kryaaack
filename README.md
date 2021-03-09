@@ -8,7 +8,7 @@
 
 ### Contact me via Telegram: [@ragefrontdev](https://t.me/ragefrontdev)
 
-Skills:
+What I use: </br>
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=javascript)
