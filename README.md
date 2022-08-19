@@ -1,6 +1,6 @@
 # Hi! 👋 Welcome to my github account!
 
-## My name is **Asad Sotimov** and I'm a **Project Manager** at [Evercode Lab](everchain.eu)!
+## My name is **Asad Sotimov** and I'm a **Project Manager** at [Evercode Lab](https://everchain.eu/)!
 
 ### Check my blog on Instagram: [aspectonyou](https://www.instagram.com/aspectonyou)
 
