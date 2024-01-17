@@ -2,8 +2,6 @@
 
 ## My name is **Asad Sotimov** and I'm a **Project Manager** at [Evercode Lab](https://everchain.eu/)!
 
-### Check my blog on Instagram: [aspectonyou](https://www.instagram.com/aspectonyou)
-
 ### Contact me via Telegram: [@psevdokazah](https://t.me/psevdokazah)
 
 What I use: </br>
